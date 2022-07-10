@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657192749,,"wq"
+|2,0,1657430596,,"wq"
 :qw
 |2,0,1657192629,,"qw"
 
@@ -27,7 +27,18 @@
 # Registers:
 
 # File marks:
+'0  1  17  ~/pooja
+|4,48,1,17,1657430596,"~/pooja"
 
 # Jumplist (newest first):
+-'  1  17  ~/pooja
+|4,39,1,17,1657430596,"~/pooja"
 
 # History of marks within files (newest to oldest):
+
+> ~/pooja
+	*	1657430581	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
