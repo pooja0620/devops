@@ -65,3 +65,13 @@ git status
 git add pooja
 git commit -m "first commit" pooja
 git log
+git remote add origin https://github.com/pooja0620/devops.git
+ll
+git branch
+git push -u origin master
+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
+git push -u origin master
+git remote add origin https://github.com/pooja0620/devops.git
+ll
+git branch
+git push -u origin master
