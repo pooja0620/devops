@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657430596,,"wq"
+|2,0,1657437385,,"wq"
 :qw
 |2,0,1657192629,,"qw"
 
@@ -31,6 +31,10 @@
 |4,48,1,17,1657430596,"~/pooja"
 
 # Jumplist (newest first):
+-'  1  17  ~/pooja
+|4,39,1,17,1657430596,"~/pooja"
+-'  1  17  ~/pooja
+|4,39,1,17,1657430596,"~/pooja"
 -'  1  17  ~/pooja
 |4,39,1,17,1657430596,"~/pooja"
 -'  1  17  ~/pooja
