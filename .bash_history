@@ -75,3 +75,15 @@ git remote add origin https://github.com/pooja0620/devops.git
 ll
 git branch
 git push -u origin master
+touch ravi
+git add ravi
+git commit -m "moving code" .
+ll
+rm pooja
+rm file2
+vim
+ll
+git status
+git add .
+ll
+git log
