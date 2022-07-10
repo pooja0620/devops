@@ -209,3 +209,40 @@ rm dir devops
 sudo rm devops
 touch file1
 vim
+ll
+touch file2
+git add .
+git commit -m "second commit" file2 .
+git status
+git log
+ll
+git push -u origin master
+git central add origin
+git central add origin https://github.com/pooja0620/ravi.git
+'git help'
+'git --help'
+'git --help'.
+git remote add origin https://github.com/pooja0620/ravi.git
+ll
+sudo -i
+git add file1
+git commit -m "first commit" .
+git remote add origin https://github.com/pooja0620/new.git
+git branch
+git branch branch1
+git branch
+git checkout branch1
+git add file1
+ll
+git commit -m "first commit" .
+git push -u origin master
+git branch
+git checkout master
+git branch
+git push -u origin master
+touch file2
+git add file2
+git commit -m " new change" file2
+git push -u origin master 
+git remote add origin https://github.com/pooja0620/new.git
+git push -u origin master
